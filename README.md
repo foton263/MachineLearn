@@ -14,11 +14,15 @@ The test data are available here:
 
 https://d396qusza40orc.cloudfront.net/predmachlearn/pml-testing.csv
 
-The data for this project come from this source: http://groupware.les.inf.puc-rio.br/har. If you use the document you create for this class for any purpose please cite them as they have been very generous in allowing their data to be used for this kind of assignment. 
+The data for this project come from this source: http://groupware.les.inf.puc-rio.br/har. 
+
+### Citation
+Velloso, E.; Bulling, A.; Gellersen, H.; Ugulino, W.; Fuks, H. Qualitative Activity Recognition of Weight Lifting Exercises. Proceedings of 4th International Conference in Cooperation with SIGCHI (Augmented Human '13) . Stuttgart, Germany: ACM SIGCHI, 2013.
+
 
 ### Goal 
-The goal of the project is to predict the manner in which they did the exercise. This is the "classe" variable in the training set. You may use any of the other variables to predict with. You should create a report describing how you built your model, how you used cross validation, what you think the expected out of sample error is, and why you made the choices you did. You will also use your prediction model to predict 20 different test cases. 
+The goal of the project is to predict the manner in which they did the exercise. This is the "classe" variable in the training set. We use any of the other variables to predict with and we should create a report describing how we built our model, how we used _cross validation_, what we think _the expected out of sample error_ is, and why we made the choices we did. We will also use our prediction model to _predict_ 20 different test cases. 
 
-1. The submission should consist of a link to a Github repo with your R markdown and compiled HTML file describing your analysis. Please constrain the text of the writeup to < 2000 words and the number of figures to be less than 5. It will make it easier for the graders if you submit a repo with a gh-pages branch so the HTML page can be viewed online (and you always want to make it easy on graders :-).
+1. The submission should consist of a link to a Github repo with your R markdown and compiled HTML file describing your analysis. Please constrain the text of the _writeup to < 2000 words_ and the _number of figures to be less than 5_. It will make it easier for the graders if you submit a repo with a gh-pages branch so the HTML page can be viewed online (and you always want to make it easy on graders :-).
 2. You should also apply your machine learning algorithm to the 20 test cases available in the test data above. Please submit your predictions in appropriate format to the programming assignment for automated grading. See the programming assignment for additional details. 
 
